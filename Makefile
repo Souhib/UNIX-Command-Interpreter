@@ -16,7 +16,7 @@ OBJ     =       $(SRC:.c=.o)
 
 NAME    =       mysh
 
-CC      =       gcc -g3
+CC      =       gcc -std=gnu99
 
 CFLAGS	+=	-I ./include/
 

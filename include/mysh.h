@@ -18,7 +18,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "my.h"
-#include "gnl.h"
 #include "mysh.h"
 
 enum nb {
