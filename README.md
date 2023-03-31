@@ -1,7 +1,7 @@
 # UNIX Command Interpreter
 This project is a UNIX command interpreter, also known as a shell, written in C programming language. The shell allows users to enter commands and execute them. The shell also supports various features such as input/output redirection, pipes, and background processes.
 
-# Installation
+## Installation
 To use this shell, you need to clone this repository to your local machine by running the following command in your terminal:
 
 Copy code
@@ -32,7 +32,7 @@ Once the shell is running, you can enter commands and execute them. The shell su
 
 To exit the shell, you can type exit or Ctrl-D.
 
-# Examples
+## Examples
 Here are some examples of how to use the shell:
 
 ```bash
