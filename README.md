@@ -18,7 +18,7 @@ Then, you can compile the shell using the following command:
 
 Copy code
 ```bash
-gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
+make
 ```
 
 Usage
